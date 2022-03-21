@@ -1,0 +1,17 @@
+.list__item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.list__item-name {
+    margin-right: 10px;
+}
+.list__item-name-username {
+    font-weight: 700;
+}
+
+.list__item-img {
+    height: 120px;
+    border-radius: 50%;
+    margin-right: 30px;
+}
